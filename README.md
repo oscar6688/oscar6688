@@ -1,4 +1,4 @@
-![banner_text](https://github.com/oscar6688/oscar6688/blob/main/Simple%20Banner.png)
+![](https://github.com/oscar6688/oscar6688/blob/main/Banner%20Aspiring%20Short.png)
 
 
 <!-- **oscar6688/oscar6688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
