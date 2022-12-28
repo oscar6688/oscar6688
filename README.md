@@ -12,7 +12,7 @@ I am a rising senior studying Data Science and Statistics at UC Berkeley with an
 
 - 🌱 I’m currently learning data modeling and inference, forecasting, machine learning, and marketing analytics. 
 - 🧑‍🤝‍🧑 I'm open to collaborating on projects on data analysis, machine learning, and software development! 
-- 🕺 Hobbies: Music on Repeat 🎵, photography 📷, and exploring the new food/scenery 🍲🌄!
+- 🕺 Hobbies: music on repeat 🎵, photography 📷, and exploring the new food/scenery 🍲🌄!
 - 💬 Ask me anything about transferring from a community college to 4-year university. Happy to provide advice! 
 - 📫 Email: oscarli@berkeley.edu 
 
