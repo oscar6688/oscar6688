@@ -5,7 +5,7 @@
 Hi there! 👋 My name is Oscar Li.
 =============================
 
-Data Science & Statistics @ UC Berkeley
+Data Science, Statistics @ UC Berkeley
 ----------------------------------------
 
 I am a rising senior studying Data Science and Statistics at UC Berkeley with an emphasis on Machine Learning, Data Analytics, and Data Engineering. Some topics I have been exploring outside of my studies are software engineering, business analytics, and iOS/web development. 
