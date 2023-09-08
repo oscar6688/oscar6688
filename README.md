@@ -10,7 +10,7 @@ Data Science, Statistics @ UC Berkeley
 
 I am a rising senior studying Data Science and Statistics at UC Berkeley with an emphasis on Machine Learning, Data Analytics, and Data Engineering. Some topics I have been exploring outside of my studies are software engineering, business analytics, and iOS/web development. 
 
-- 🌱 I’m currently learning data modeling and inference, forecasting, machine learning, and marketing analytics. 
+- 🌱 I’m currently learning data engineering and bioengineering ethics. 
 - 🧑‍🤝‍🧑 I'm open to collaborating on projects on data analysis, machine learning, and software development! 
 - 🕺 Hobbies: music on repeat 🎵, photography 📷, and exploring the new food/scenery 🍲🌄!
 - 💬 Ask me anything about transferring from a community college to 4-year university. Happy to provide advice! 
