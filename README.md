@@ -5,15 +5,13 @@
 Hi there! 👋 My name is Oscar Li.
 =============================
 
-Data Science, Statistics @ UC Berkeley
+AI/ML Engineer
 ----------------------------------------
 
-I am a rising senior studying Data Science and Statistics at UC Berkeley with an emphasis on Machine Learning, Data Analytics, and Data Engineering. Some topics I have been exploring outside of my studies are software engineering, business analytics, and iOS/web development. 
+Develop applications with LLM
 
-- 🌱 I’m currently learning backend-web architecture, applied machine learning II, healthcare analytics, NLP, Info Theory. 
-- 🧑‍🤝‍🧑 I'm open to collaborating on projects on data analysis, machine learning, and software development! 
+- 🌱 UC Berkeley Stats + DS Alumn, AI/ML Engineer at Kaiser. LLM agentic workflows, MLOps, RAG applications are some topics I am learning!
 - 🕺 Hobbies: music on repeat 🎵, photography 📷, and exploring the new food/scenery 🍲🌄!
-- 💬 Ask me anything about transferring from a community college to 4-year university. Happy to provide advice! 
 - 📫 Email: oscarli@berkeley.edu 
 
 ## 📈 GitHub Stats 
