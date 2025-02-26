@@ -10,7 +10,7 @@ AI/ML Engineer
 
 Develop applications with LLM
 
-- 🌱 UC Berkeley Stats + DS Alumn, AI/ML Engineer at Kaiser. LLM agentic workflows, MLOps, RAG applications are some topics I am learning!
+- 🌱 UC Berkeley Stats + DS Alumn, Engineer at Kaiser. LLM agentic workflows, MLOps, and RAG applications are some topics I am learning!
 - 🕺 Hobbies: music on repeat 🎵, photography 📷, and exploring the new food/scenery 🍲🌄!
 - 📫 Email: oscarli@berkeley.edu 
 
